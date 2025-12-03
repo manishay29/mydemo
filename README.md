@@ -1,2 +1,3 @@
 # mydemo
-this is my private git repos
+this is my private git repository
+author :Manisha Yadav
